@@ -118,7 +118,7 @@
         }
         
         .fondo {
-            background-image: url(https://raw.githubusercontent.com/jenniferdiazz/micampanaquincho.cl/gh-pages/img/b.jpg);
+            background-image: url("https://github.com/jenniferdiazz/micampanaquincho.cl/blob/master/img/b.jpg?raw=true");
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
