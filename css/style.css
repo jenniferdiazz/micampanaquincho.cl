@@ -25,13 +25,10 @@ footer {
 }
 
 .contacto {
-    background-image: url(/img/b.jpg);
+    background-image: url(img/b.jpg);
     background-position: center;
-    /* Center the image */
     background-repeat: no-repeat;
-    /* Do not repeat the image */
     background-size: cover;
-    /* Resize the background image to cover the entire container */
 }
 
 .text-contacto {
