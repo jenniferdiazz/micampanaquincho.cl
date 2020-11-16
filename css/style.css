@@ -111,14 +111,14 @@
         }
         
         .social {
-            background-color: #18171c;
+            background-color: black;
             text-align: justify;
             font-family: 'Cabin', sans-serif;
             font-weight: 400;
         }
         
         .fondo {
-            background-image: url(https://github.com/jenniferdiazz/micampanaquincho.cl/blob/gh-pages/img/b.jpg?raw=true);
+            background-image: url(https://raw.githubusercontent.com/jenniferdiazz/micampanaquincho.cl/gh-pages/img/b.jpg);
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
